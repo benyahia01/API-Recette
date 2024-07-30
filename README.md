@@ -1,8 +1,8 @@
 # API-Recette
 Develop an API to manage simple cooking recipes
 1. Clonez le dépôt de la branche master :
-  git clone https://github.com/benyahia01/API-Recette.git
-  cd cooking-recipes-api
+  - git clone https://github.com/benyahia01/API-Recette.git
+  - cd cooking-recipes-api
 2. Installez les dépendances :
     npm install
 3. Configurez la base de données PostgreSQL :
