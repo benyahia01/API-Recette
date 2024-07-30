@@ -1,6 +1,6 @@
 # API-Recette
 Develop an API to manage simple cooking recipes
-1. Clonez le dépôt :
+1. Clonez le dépôt de la brache master :
   git clone https://github.com/benyahia01/API-Recette.git
   cd cooking-recipes-api
 2. Installez les dépendances :
