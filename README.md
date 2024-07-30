@@ -24,12 +24,12 @@ Develop an API to manage simple cooking recipes
 npm run start:dev
 
 5. Pour tester votre API sur Postman, suivez ces étapes :
-    Installation de Postman :
+   * Installation de Postman :
         - Assurez-vous d'avoir Postman installé sur votre machine. Vous pouvez le télécharger depuis Postman.
-         Configuration de l'environnement Postman :
+   * Configuration de l'environnement Postman :
         - Ouvrez Postman et créez un nouvel environnement.
-        - Ajoutez une nouvelle variable d'environnement appelée base_url avec la valeur http://localhost:3000 (ou l'URL de votre API si elle est déployée sur un             autre serveur).
-    Création des requêtes Postman :
+        - Ajoutez une nouvelle variable d'environnement appelée base_url avec la valeur http://localhost:3000.
+   * Création des requêtes Postman :
   Ingrédients
 * Créer un ingrédient
 Méthode : POST
