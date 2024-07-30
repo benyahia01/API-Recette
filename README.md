@@ -145,5 +145,5 @@ Copier le code
   "instructions": "Updated instructions."
 }
 Envoyer la requête : Cliquez sur Send.
-Si le nom de la recette a changé, le mot "BAZINGA" devrait être loggé dans la console du serveur.
+- Si le nom de la recette a changé, le mot "BAZINGA" devrait être loggé dans la console du serveur.
 En suivant ces étapes, vous pouvez tester et valider les différentes fonctionnalités de  l'API avec Postman.
