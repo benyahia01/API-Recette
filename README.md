@@ -30,7 +30,7 @@ npm run start:dev
         - Ouvrez Postman et créez un nouvel environnement.
         - Ajoutez une nouvelle variable d'environnement appelée base_url avec la valeur http://localhost:3000.
    * Création des requêtes Postman :
-  Ingrédients
+  - Ingrédients
 * Créer un ingrédient
 Méthode : POST
 URL : {{base_url}}/ingredients
@@ -68,7 +68,7 @@ Méthode : DELETE
 URL : {{base_url}}/ingredients/:id
 Remplacez :id par l'identifiant de l'ingrédient que vous souhaitez supprimer.
 Envoyer la requête : Cliquez sur Send.
-  Recettes
+  - Recettes
 * Créer une recette
 Méthode : POST
 URL : {{base_url}}/recipes
