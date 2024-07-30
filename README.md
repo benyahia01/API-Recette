@@ -1,7 +1,7 @@
 # API-Recette
 Develop an API to manage simple cooking recipes
 1. Clonez le dépôt :
-  git clone https://github.com/<votre-nom-utilisateur>/cooking-recipes-api.git
+  git clone https://github.com/benyahia01/API-Recette.git
   cd cooking-recipes-api
 2. Installez les dépendances :
     npm install
