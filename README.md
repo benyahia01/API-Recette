@@ -5,7 +5,7 @@ Develop an API to manage simple cooking recipes
   cd cooking-recipes-api
 2. Installez les dépendances :
     npm install
-3.Configurez la base de données PostgreSQL :
+3. Configurez la base de données PostgreSQL :
     Créez une base de données PostgreSQL.
     Créez les tables Recipe + ingredient.
     Mettez à jour les informations de connexion à la base de données dans le fichier src/app.module.ts
